@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GamingWithmyFriends.aternos.me:17126
-    ",
+    "ip": "GamingWithmyFriends.aternos.me:17126",
     "port": 17126,
     "version": "26.1.2",
     "try-creative": false
